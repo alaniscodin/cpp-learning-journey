@@ -2,6 +2,7 @@
 
 This repository contains my C++ study codes, focused on practicing
 basic programming concepts such as loops, conditions, logic and etc.
+Keep in mind some codes are in Brazilian Portuguese and others in English!
 
 
 ##  Topics studied so far
